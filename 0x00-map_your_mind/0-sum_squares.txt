@@ -1,0 +1,5 @@
+Pseudocode to calculate the sum of squares of given input of numbers.
+1.Define a FUNCTION to accept array of numbers.
+2.And return the product of each of those numbers by 2.
+3. Iterate using a FOR LOOP for a given input.
+3. Print a sum of the total product of numbers.
